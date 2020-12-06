@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My Connected React-Redux Component should render with given state from Redux store 1`] = `
+Array [
+  <h2>
+    Number of Cakes - 
+    1
+  </h2>,
+  <button
+    onClick={[Function]}
+  >
+    Buy Cakes!
+  </button>,
+]
+`;
